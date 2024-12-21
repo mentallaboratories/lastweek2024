@@ -1,0 +1,13 @@
+.logo-icon{
+    display: inline-flex;
+    fill: white;
+    width: 150px;
+    height: 150px;
+}
+
+.icon-xl{
+    display: inline-flex;
+    fill: white;
+    width: 100px;
+    height: 100px;
+}
